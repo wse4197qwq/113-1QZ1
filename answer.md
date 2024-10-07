@@ -56,6 +56,7 @@ public void mt_getResult(){
 1. 請執行下面Git操作 (請參照題目pdf)
 
 Ans:
+    Test
 
 2. 請整理課堂上所提的Git指令，顯示其語法語給予明顯的例子
 
